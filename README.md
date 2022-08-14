@@ -1,7 +1,7 @@
 
 # Identify Customer Segments
 
-Find segments of the populaton that form the core customer base for a mail-order sales company. 
+Find segments of the population that form the core customer base for a mail-order sales company. 
 
 ## Results:
 
